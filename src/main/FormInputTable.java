@@ -6,11 +6,6 @@ package main;
 import javax.swing.table.*;
 import java.util.ArrayList;
 import java.util.List;
-
-/**
- *
- * @author salma
- */
 public class FormInputTable extends AbstractTableModel {
      // Mendefinisikan nama-nama kolom
     private String[] columnNames = {"Nama", "Nomor HP", "Jenis Kelamin", "Alamat"};
